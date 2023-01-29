@@ -48,6 +48,9 @@ header {
     background: #000;
     margin-top: 30px;  
     height: 70vh;
+    --webkit-box-shadow: 2px 20px 34px -10px rgba(38,36,38,1);
+    -moz-box-shadow: 2px 20px 34px -10px rgba(38,36,38,1);
+    box-shadow: 2px 20px 34px -10px rgba(38,36,38,1);
 }
 header .im{
     width: 100%;
